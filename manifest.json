@@ -1,0 +1,7 @@
+{
+    "name": "Kindle Highlights",
+    "version": "1.0",
+    "description": "Extract hightlights listed against your book on the Kindle website.",
+    "manifest_version": 2
+}
+
