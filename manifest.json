@@ -2,6 +2,11 @@
     "name": "Kindle Highlights",
     "version": "1.0",
     "description": "Extract hightlights listed against your book on the Kindle website.",
+    "permissions": ["storage"],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
     "manifest_version": 2
 }
 
